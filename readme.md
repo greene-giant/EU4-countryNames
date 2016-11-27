@@ -13,4 +13,15 @@ Changed names:
 
 Original Name | New Name
 ------------- | --------
+Crimea | The Crimean Khanate
+Great Horde | The Great Horde
+Golden Horde | The Golden Horde
+Kazan | The Khanate of Kazan
+Livonian | The Livonian Order
+Mamluks | The Mamluk Sultanate
 Ming | The Empire of the Great Ming
+Netherlands | The Netherlands
+Nogai | The Nogai Horde
+Teutonic Order | The Teutonic Order
+Timurids | The Timurids
+Ottomans | The Ottoman Empire
