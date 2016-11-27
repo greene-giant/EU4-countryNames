@@ -12,5 +12,5 @@ Changed names:
 * The Ottoman Empire
 
 Original Name | New Name
--|-
+------------- | --------
 Ming | The Empire of the Great Ming
