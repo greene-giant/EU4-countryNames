@@ -10,3 +10,7 @@ Changed names:
 * The Netherlands
 * The Nogai Horde
 * The Ottoman Empire
+
+Original Name | New Name
+-|-
+Ming | The Empire of the Great Ming
