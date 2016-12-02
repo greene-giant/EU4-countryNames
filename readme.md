@@ -11,7 +11,7 @@ Golden Horde | The Golden Horde
 Kazan | The Khanate of Kazan
 Livonian | The Livonian Order
 Mamluks | The Mamluk Sultanate
-Ming | The Empire of the Great Ming
+Ming | The Great Ming
 Netherlands | The Netherlands
 Nogai | The Nogai Horde
 Teutonic Order | The Teutonic Order
