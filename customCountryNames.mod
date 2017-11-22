@@ -1,4 +1,4 @@
-name="Custom Country Names"
+name="Greene Giant :: Country Names"
 path="mod/customCountryNames"
 
-supported_version="1.20.*"
+supported_version="1.23.*"
