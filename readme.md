@@ -8,6 +8,7 @@ Original Name | New Name
 Crimea | The Crimean Khanate
 Great Horde | The Great Horde
 Golden Horde | The Golden Horde
+Commonwealth | The Commonwealth
 Kazan | The Khanate of Kazan
 Livonian | The Livonian Order
 Mamluks | The Mamluk Sultanate
